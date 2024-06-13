@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="681d38ae-e2ad-48b5-9cda-5ff6bf4a062c" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classBasics.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/drawTriangle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/enum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funBasics.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exceptions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercise4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/finalAssessment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -57,14 +56,19 @@
     "Kotlin.DownToKt.executor": "Run",
     "Kotlin.DrawTriangleKt.executor": "Run",
     "Kotlin.EnumKt.executor": "Run",
+    "Kotlin.ExceptionsKt.executor": "Run",
     "Kotlin.Exercise1Kt.executor": "Run",
     "Kotlin.Exercise2Kt.executor": "Run",
+    "Kotlin.Exercise3Kt.executor": "Run",
+    "Kotlin.Exercise4Kt.executor": "Run",
+    "Kotlin.FinalAssessmentKt.executor": "Run",
     "Kotlin.FunBasicsKt.executor": "Run",
     "Kotlin.InfiniteLoopKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.PrintNTimesKt.executor": "Run",
     "Kotlin.PrintNTimesWithForLoopKt.executor": "Run",
     "Kotlin.RotatedIsoscelesTriangleKt.executor": "Run",
+    "Kotlin.TestKt.executor": "Run",
     "Kotlin.UpsideDownIsoscelesTriangleKt.executor": "Run",
     "Kotlin.UpsideDownRightTriangleKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -94,7 +98,9 @@
       <workItem from="1717750249822" duration="657000" />
       <workItem from="1717752235864" duration="3397000" />
       <workItem from="1718035831545" duration="780000" />
-      <workItem from="1718094171259" duration="299000" />
+      <workItem from="1718094171259" duration="468000" />
+      <workItem from="1718095354633" duration="6000" />
+      <workItem from="1718261279436" duration="9172000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -104,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717750260687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1718094567541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718094567541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
